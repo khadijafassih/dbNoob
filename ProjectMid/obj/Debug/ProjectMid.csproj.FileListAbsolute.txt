@@ -1,0 +1,16 @@
+D:\2nd Semester\DB\ProjectMid\bin\Debug\ProjectMid.exe.config
+D:\2nd Semester\DB\ProjectMid\bin\Debug\ProjectMid.exe
+D:\2nd Semester\DB\ProjectMid\bin\Debug\ProjectMid.pdb
+D:\2nd Semester\DB\ProjectMid\bin\Debug\Bunifu_UI_v1.52 (1).dll
+D:\2nd Semester\DB\ProjectMid\obj\Debug\ProjectMid.csproj.AssemblyReference.cache
+D:\2nd Semester\DB\ProjectMid\obj\Debug\ProjectMid.Form1.resources
+D:\2nd Semester\DB\ProjectMid\obj\Debug\ProjectMid.Form2.resources
+D:\2nd Semester\DB\ProjectMid\obj\Debug\ProjectMid.Properties.Resources.resources
+D:\2nd Semester\DB\ProjectMid\obj\Debug\ProjectMid.csproj.GenerateResource.cache
+D:\2nd Semester\DB\ProjectMid\obj\Debug\ProjectMid.csproj.CoreCompileInputs.cache
+D:\2nd Semester\DB\ProjectMid\obj\Debug\ProjectMid.csproj.CopyComplete
+D:\2nd Semester\DB\ProjectMid\obj\Debug\ProjectMid.exe
+D:\2nd Semester\DB\ProjectMid\obj\Debug\ProjectMid.pdb
+D:\2nd Semester\DB\ProjectMid\obj\Debug\ProjectMid.Form3.resources
+D:\2nd Semester\DB\ProjectMid\obj\Debug\ProjectMid.Form7.resources
+D:\2nd Semester\DB\ProjectMid\obj\Debug\ProjectMid.Form4.resources
